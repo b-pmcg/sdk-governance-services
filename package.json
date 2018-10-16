@@ -1,7 +1,6 @@
 {
-  "name": "sdk-governance-services",
-  "version": "1.0.8",
-  "description": "SDK Services for Governance Dashboard",
+  "name": "@makerdao/dai-plugin-governance",
+  "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
     "@makerdao/dai": "^0.9.5",
