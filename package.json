@@ -1,6 +1,6 @@
 {
   "name": "sdk-governance-services",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "SDK Services for Governance Dashboard",
   "license": "MIT",
   "dependencies": {
